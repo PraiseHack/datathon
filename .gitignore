@@ -1,0 +1,6 @@
+.env
+pg_data
+logs
+postgres-db-volume
+thon
+__pycache__
